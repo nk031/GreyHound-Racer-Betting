@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GreyHound_Racer_Betting.Factory" Collapsed="true">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GreyHound_Racer_Betting.Bet" Collapsed="true">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAEAAAAIAAAAACACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GreyHound_Racer_Betting.Dogs" Collapsed="true">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAIAgAAAAAAAAAAABQAAAAAAgAI=</HashCode>
+      <FileName>Dogs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GreyHound_Racer_Betting.Program" Collapsed="true">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GreyHound_Racer_Betting.Punter" Collapsed="true">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAgAACAAAAAAAAQAAAAEEAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Punter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GreyHound_Racer_Betting.Jimmy" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Punter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GreyHound_Racer_Betting.Monty" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Punter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GreyHound_Racer_Betting.Panther" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Punter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
